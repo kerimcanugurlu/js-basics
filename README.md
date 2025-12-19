@@ -11,3 +11,6 @@ This repository contains my notes and small exercises while learning JavaScript.
 
 ## Purpose
 Learning software development step by step.
+
+## Notes
+📘 My learning notes: [notes.md](./notes.md)
