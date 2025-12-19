@@ -1,3 +1,6 @@
+
+// Functions in JavaScript
+
 // 02-functions.js
 
 function add(a, b) {
