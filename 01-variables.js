@@ -1,3 +1,7 @@
+
+// Variables in JavaScript
+
+
 // 01-variables.js
 
 let name = "Kerimcan";
