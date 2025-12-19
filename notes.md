@@ -7,3 +7,8 @@
 
 ## Data Types
 - number, string, boolean, null, undefined
+
+## Operators
+-Arithmetic: + - * / %
+-Comparison: > < === !==
+- === checks both value and type
